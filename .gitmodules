@@ -10,3 +10,6 @@
 [submodule "todo-list-server-with-class"]
 	path = todo-list-server-with-class
 	url = https://github.com/dreamingrainbow/todo-list-server-with-class
+[submodule "todo-list-server"]
+	path = todo-list-server
+	url = https://github.com/dreamingrainbow/todo-list-server
