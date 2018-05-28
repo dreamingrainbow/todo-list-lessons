@@ -7,3 +7,6 @@
 [submodule "todo-list-client-with-server-lesson"]
 	path = todo-list-client-with-server-lesson
 	url = https://github.com/dreamingrainbow/todo-list-client-with-server-lesson
+[submodule "todo-list-server-with-class"]
+	path = todo-list-server-with-class
+	url = https://github.com/dreamingrainbow/todo-list-server-with-class
