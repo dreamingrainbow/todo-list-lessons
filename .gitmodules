@@ -1,0 +1,9 @@
+[submodule "todo-list-client-lesson"]
+	path = todo-list-client-lesson
+	url = https://github.com/dreamingrainbow/todo-list-client-lesson
+[submodule "todo-list-client-redux-lesson"]
+	path = todo-list-client-redux-lesson
+	url = https://github.com/dreamingrainbow/todo-list-client-redux-lesson
+[submodule "todo-list-client-with-server-lesson"]
+	path = todo-list-client-with-server-lesson
+	url = https://github.com/dreamingrainbow/todo-list-client-with-server-lesson
